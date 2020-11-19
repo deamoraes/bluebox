@@ -1,4 +1,4 @@
-# **Woman and < /code>**<img src="https://media3.giphy.com/media/YMSeYP1Yv5KvtNKqZz/giphy.gif?cid=ecf05e47xtmjo42hgr7k6wu8ye4fvce7krnownhckl18k2g6&rid=giphy.gif" width="50" height="50"/>
+# **Woman and < /code>**<img src="https://media1.giphy.com/media/If0qG3ywsZ92e9jh5k/giphy.gif?cid=ecf05e478debb42bec5d7bff6efb417a42bf6e3b307f225f&rid=giphy.gif" width="50" height="50"/>
 
 _O Magazine buscou uma solução criativa para que os pequenos e grandes negócios continuassem seu faturamento vendendo seus produtos dentro da plataforma Magalu._
 
@@ -6,7 +6,7 @@ _O Magazine buscou uma solução criativa para que os pequenos e grandes negóci
 
 * Clientes felizes com a diversidade de produtos.
 * Melhoria no faturamento aproximando cliente e vendedor nas diversas categorias.
-* Evitar comprometimento do faturamento garantindo a continuidade do négocio.
+* Evitar comprometimento do faturamento, garantindo a continuidade do negócio.
   
 ## Desenvolvimento
 * API REST
@@ -21,5 +21,5 @@ _O Magazine buscou uma solução criativa para que os pequenos e grandes negóci
 * Consulta de produtos
   
 
-<img src="https://snipboard.io/ZvrWQ5.jpg"/>
+<img src="https://i.pinimg.com/originals/65/bd/3c/65bd3cd76d96b2b30f692c3c1c0d6704.png"/>
 

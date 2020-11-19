@@ -14,8 +14,8 @@ class SellerDetailViewSet(generics.RetrieveUpdateAPIView):
 
 class ProductViewSet(generics.ListCreateAPIView):
     queryset = Product.objects.all().order_by("title")
-    serializer_class = SellerSerializer
+    serializer_class = ProductSerializer
 
 class ProductDetailViewSet(generics.RetrieveUpdateAPIView):
     queryset = Product.objects.all().order_by("title")
-    serializer_class = SellerSerializer
+    serializer_class = ProductSerializer

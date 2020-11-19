@@ -1,7 +1,7 @@
 from django.shortcuts import render
-from .models import Seller, Product
+from .models import Seller,Product
 from rest_framework import generics
-from .serializers import SellerSerializer, ProductSerializer
+from .serializers import SellerSerializer,ProductSerializer
 import json
 
 class SellerViewSet(generics.ListCreateAPIView):

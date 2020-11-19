@@ -24,4 +24,3 @@ class Product(models.Model):
         return f"{self.title} - {self.code}"
 
 
-

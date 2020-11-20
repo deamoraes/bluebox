@@ -1,3 +1,6 @@
+![CircleCI](https://img.shields.io/circleci/build/github/deamoraes/bluebox)
+![Codecov](https://img.shields.io/codecov/c/github/deamoraes/bluebox)
+
 # **Woman and < /code>**<img src="https://media1.giphy.com/media/If0qG3ywsZ92e9jh5k/giphy.gif?cid=ecf05e478debb42bec5d7bff6efb417a42bf6e3b307f225f&rid=giphy.gif" width="50" height="50"/>
 
 _O Magazine buscou uma solução criativa para que os pequenos e grandes negócios continuassem seu faturamento vendendo seus produtos dentro da plataforma Magalu._

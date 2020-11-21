@@ -52,3 +52,16 @@ class SellerViewTests(TestCase):
         self.assertEqual(response.status_code, 201)
         self.assertEquals(Seller.objects.count(), 2)
         self.assertEquals(Seller.objects.last().name, "Whirpool")
+
+    def test_put(self):
+        client = APIClient()
+        response = client.put('/products/sellers/1/', {
+            "name": "Sony",
+        })
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEquals(Seller.objects.count(), 1)
+        self.assertEquals(Seller.objects.last().name, "Sony")
+
+
+ 
